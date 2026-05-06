@@ -2,7 +2,7 @@ field,display_name,btn,hidden,sort_name
 dc.title,Title,,,
 dc.creator,Creator,true,,
 dc.publisher,Publisher,true,,
-dc.date,Date Created,true,,
+date,Date Created,true,,
 dc.description,Description,,,
 dc.subject,Subjects,true,,
 genre,Genre,true,,
