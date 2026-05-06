@@ -16,7 +16,7 @@ dc.language,Language
 dc.source,Source
 dc.identifier,Source Identifier
 dc.type,Type
-dc.format,Format
+format,Format
 dc.rights,Rights
 dc.rightsstatement,Rights Statement
 dc.rating,Rating
