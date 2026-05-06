@@ -1,7 +1,22 @@
 field,index,display
-title,true,true
-date,true,true
-creator,true,false
-description,true,true
-subject,true,true
-location,true,false
+dc.title,Title,true,
+dc.creator,Creator,false,
+dc.publisher,Publisher,,
+dc.date,Date,true,
+dc.description,Description,true,
+dc.subject,Subjects,true,
+genre,Genre,,
+mood,Mood,,
+theme,Theme,,
+subgenre,Subgenre,,
+mechanics,Game Mechanics,,
+platform,Platform,,
+mode,Mode,,
+dc.language,Language,,
+dc.source,Source,,
+dc.identifier,Source Identifier,,
+dc.type,Type,,
+dc.format,Format,,
+dc.rights,Rights,,
+dc.rightsstatement,Rights Statement,,
+dc.rating,Rating,
