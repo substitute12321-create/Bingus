@@ -16,7 +16,7 @@ dc.language,Language,true,,
 dc.source,Source,,,
 dc.identifier,Source Identifier,,,true
 dc.type,Type,true,,
-dc.format,Format,true,,
+format,Format,true,,
 dc.rights,Rights,,,
 dc.rightsstatement,Rights Statement,,,true
 dc.rating,Rating,true,,
