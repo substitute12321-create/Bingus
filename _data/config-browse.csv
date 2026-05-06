@@ -1,5 +1,5 @@
 field,display_name,btn,hidden,sort_name
-dc.title,Title,,,
+title,Title,,,
 dc.creator,Creator,true,,
 dc.publisher,Publisher,true,,
 date,Date Created,true,,
