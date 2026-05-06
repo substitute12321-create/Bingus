@@ -2,7 +2,7 @@ field,display_name
 dc.title,Title
 dc.creator,Creator
 dc.publisher,Publisher
-dc.date,Date Created
+date,Date Created
 dc.description,Description
 dc.subject,Subjects
 genre,Genre
