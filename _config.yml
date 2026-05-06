@@ -20,12 +20,12 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-sheets
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CollectionBuilder-Sheets
-# tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a template for creating simple digital exhibits
-# description appears in meta tags and other locations
+title: "INFOST 315 Final project"
+# htagline, a short phrase that will appear throughout the site in the top banner
+tagline: "In depth video game database"
+# description appears in meta tags ansdafd other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-Sheets is a template for creating simple digital exhibit websites by loading collection metadata directly from a CSV, designed for teaching digital library skills."
+description: "A video game taxonomy database organizing, categorizing, and exploring video games through consistent metadata and hierarchical tagging."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: CollectionBuilder
 
