@@ -2,7 +2,7 @@ field,index,display
 dc.title,true,Title
 dc.creator,false,Creator
 dc.publisher,,Publisher
-dc.date,true,Date
+date,true,Date
 dc.description,true,Description
 dc.subject,true,Subjects
 genre,,Genre
