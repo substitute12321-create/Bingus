@@ -1,5 +1,5 @@
 field,index,display
-dc.title,true,Title
+title,true,Title
 dc.creator,false,Creator
 dc.publisher,,Publisher
 date,true,Date
