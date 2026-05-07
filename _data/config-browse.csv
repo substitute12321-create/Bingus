@@ -11,6 +11,7 @@ subgenre,Subgenre,true,,
 mechanics,Game Mechanics,true,,
 platform,Platform,true,,
 mode,Mode,true,,
+setting,Setting,true,,
 dc.language,Language,true,,
 dc.source,Source,,,
 dc.identifier,Source Identifier,,,true
@@ -19,3 +20,4 @@ format,Format,true,,
 dc.rights,Rights,,,
 dc.rightsstatement,Rights Statement,,,true
 dc.rating,Rating,true,,
+
