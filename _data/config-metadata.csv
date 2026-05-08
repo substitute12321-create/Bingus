@@ -1,10 +1,10 @@
 field,display_name,browse_link,external_link
 title,Title,,
-dc.creator,Creator,true,
-dc.publisher,Publisher,true,
+creator,Creator,true,
+publisher,Publisher,true,
 date,Date Created,true,
-dc.description,Description,,
-dc.subject,Subjects,true,
+description,Description,,
+subject,Subjects,true,
 genre,Genre,true,
 mood,Mood,true,
 theme,Theme,true,
@@ -12,11 +12,11 @@ subgenre,Subgenre,true,
 mechanics,Game Mechanics,true,
 platform,Platform,true,
 mode,Mode,true,
-dc.language,Language,true,
-dc.source,Source,,
-dc.identifier,Source Identifier,,true
-dc.type,Type,true,
+language,Language,true,
+source,Source,,
+identifier,Source Identifier,,true
+type,Type,true,
 format,Format,true,
-dc.rights,Rights,,
-dc.rightsstatement,Rights Statement,,true
-dc.rating,Rating,true,
+rights,Rights,,
+rightsstatement,Rights Statement,,true
+rating,Rating,true,
