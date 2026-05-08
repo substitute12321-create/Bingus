@@ -1,21 +1,21 @@
 field,display_name
 title,Title
-dc.creator,Creator
-dc.publisher,Publisher
+creator,Creator
+publisher,Publisher
 date,Date Created
-dc.description,Description
-dc.subject,Subjects
+description,Description
+subject,Subjects
 mood,Mood
 theme,Theme
 subgenre,Subgenre
 mechanics,Game Mechanics
 platform,Platform
 mode,Mode
-dc.language,Language
-dc.source,Source
-dc.identifier,Source Identifier
-dc.type,Type
+language,Language
+source,Source
+identifier,Source Identifier
+type,Type
 format,Format
-dc.rights,Rights
-dc.rightsstatement,Rights Statement
-dc.rating,Rating
+rights,Rights
+rightsstatement,Rights Statement
+rating,Rating
