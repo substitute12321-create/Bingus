@@ -1,21 +1,3 @@
 field,index,display
 title,true,Title
 creator,false,Creator
-publisher,,Publisher
-date,true,Date
-description,true,Description
-subject,true,Subjects
-mood,,Mood
-theme,,Theme
-subgenre,,Subgenre
-mechanics,,Game Mechanics
-platform,,Platform
-mode,,Mode
-language,,Language
-source,,Source
-identifier,,Source Identifier
-type,,Type
-format,,Format
-rights,,Rights
-rightsstatement,,Rights Statement
-rating,,Rating
