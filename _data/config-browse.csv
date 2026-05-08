@@ -1,6 +1,6 @@
 field,display_name,btn,hidden,sort_name
-dc.title,Title,,,
-dc.creator,Creator,true,,
-dc.publisher,Publisher,true,,
+title,Title,,,
+creator,Creator,true,,
+publisher,Publisher,true,,
 date,Date Created,true,,
-dc.description,Description,,,
+description,Description,,,
