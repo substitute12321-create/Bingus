@@ -1,6 +1,7 @@
 field,display_name,btn,hidden,sort_name
 title,Title,,,
-creator,Creator,true,true,
+creator,Creator,true,,
 publisher,Publisher,true,,
-date,Date Created,true,,
+date,Date Created,,,
 description,Description,,,
+platform,Platform,true,true,
